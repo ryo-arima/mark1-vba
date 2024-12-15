@@ -1,3 +1,6 @@
+lint:
+	find books -type f -name '*.xml' -exec xmllint --format --output {} {} \;
+
 s:
 	git add .
 	commit-emoji

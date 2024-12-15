@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="1" uniqueCount="1"><si><t>Hello, VBA!</t><phoneticPr fontId="1"/></si></sst>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="2" uniqueCount="2">
+  <si>
+    <t>header1</t>
+    <phoneticPr fontId="1"/>
+  </si>
+  <si>
+    <t>header2</t>
+    <phoneticPr fontId="1"/>
+  </si>
+</sst>
