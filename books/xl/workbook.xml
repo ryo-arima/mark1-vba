@@ -7,7 +7,7 @@
       <x15ac:absPath xmlns:x15ac="http://schemas.microsoft.com/office/spreadsheetml/2010/11/ac" url="/Users/ryo/mysrc/github/ryo-arima/mark1-xlsx/books/"/>
     </mc:Choice>
   </mc:AlternateContent>
-  <xr:revisionPtr revIDLastSave="0" documentId="13_ncr:1_{717D1CAE-7150-C04E-9050-3079B54ED87A}" xr6:coauthVersionLast="47" xr6:coauthVersionMax="47" xr10:uidLastSave="{00000000-0000-0000-0000-000000000000}"/>
+  <xr:revisionPtr revIDLastSave="0" documentId="8_{5C89AB8D-A418-8847-B200-353FDECCDDCA}" xr6:coauthVersionLast="47" xr6:coauthVersionMax="47" xr10:uidLastSave="{00000000-0000-0000-0000-000000000000}"/>
   <bookViews>
     <workbookView xWindow="10460" yWindow="16940" windowWidth="28300" windowHeight="17440" xr2:uid="{6E3BD106-AA0B-5E43-A4AA-FEEFABB869C1}"/>
   </bookViews>
@@ -15,6 +15,7 @@
     <sheet name="Sheet1" sheetId="1" r:id="rId1"/>
   </sheets>
   <calcPr calcId="181029"/>
+  <fileRecoveryPr repairLoad="1"/>
   <extLst>
     <ext xmlns:x15="http://schemas.microsoft.com/office/spreadsheetml/2010/11/main" uri="{140A7094-0E35-4892-8432-C4D2E57EDEB5}">
       <x15:workbookPr chartTrackingRefBase="1"/>
