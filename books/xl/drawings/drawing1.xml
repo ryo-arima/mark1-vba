@@ -8,7 +8,7 @@
       <xdr:rowOff>12700</xdr:rowOff>
     </xdr:from>
     <xdr:to>
-      <xdr:col>4</xdr:col>
+      <xdr:col>8</xdr:col>
       <xdr:colOff>266700</xdr:colOff>
       <xdr:row>8</xdr:row>
       <xdr:rowOff>0</xdr:rowOff>
@@ -26,7 +26,7 @@
       </xdr:nvSpPr>
       <xdr:spPr>
         <a:xfrm>
-          <a:off x="2882900" y="1028700"/>
+          <a:off x="3882900" y="1028700"/>
           <a:ext cx="1193800" cy="1003300"/>
         </a:xfrm>
         <a:prstGeom prst="rect">
